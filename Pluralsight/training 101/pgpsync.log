@@ -1,0 +1,8 @@
+[03/09/15 10:47:48]User Local ID upgrade done. Status = 0
+[03/09/15 10:52:33]PGPwdeSyncBGFS::Repair started
+[03/09/15 10:52:35]PGPwdeSyncBGFS::Repair result, err=-11980
+[03/09/15 13:13:10]PGPwdeSyncBGFS::PGPWDE02 moved, err=-11976
+[03/09/15 13:13:10]PGPwdeSyncBGFS::PGPWDE02 start at sector 127759360
+[03/09/15 13:13:10]PGPwdeSyncBGFS::Repair started
+[03/09/15 13:13:10]PGPwdeSyncBGFS::Repair result, err=0
+[03/09/15 13:13:10]PGPwdeSyncBGFS::Rename file result, err=0

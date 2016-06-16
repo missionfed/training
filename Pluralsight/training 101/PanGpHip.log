@@ -1,0 +1,2 @@
+(T6560) 05/14/15 15:26:55:030 Error( 760): PanGpHip: Opswat Error(-1): Unknown, general error. Method: MID_PATCHMANAGEMENTAGENT_ISAGENTENABLED, Product: Microsoft Windows Update Agent, Version: 7.6.7601.18804. Pid: 80400, Sid: 12(SECI_PATCHMANAGEMENTAGENT).
+(T6560) 05/14/15 15:26:55:030 Error( 760): PanGpHip: Opswat Error(-1): Unknown, general error. Method: MID_PATCHMANAGEMENTAGENT_ISAGENTENABLED, Product: Microsoft Windows AutomaticUpdate, Version: 7.6.7601.18804. Pid: 80410, Sid: 12(SECI_PATCHMANAGEMENTAGENT).
