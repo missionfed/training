@@ -1,0 +1,5 @@
+ <input class="btn2"
+        id="btnSubmit"
+        onclick="submitForm();"
+        type="button"
+        value="Submit" />

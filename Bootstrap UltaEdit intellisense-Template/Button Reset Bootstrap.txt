@@ -1,0 +1,4 @@
+ <input type="button"
+        class="btn btn-danger"
+        onclick="this.form.reset()"
+        value="Reset" />

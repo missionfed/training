@@ -1,0 +1,29 @@
+<!-- Move up to CSS
+.list-group{
+ width: 200px;
+}
+.list-wrapper-margin{
+ margin: 20px;
+}
+-->
+
+<div class="list-wrapper-margin">
+ <div class="list-group">
+  <a href="#" class="list-group-item">
+   A
+   <span class="badge">1</span>
+  </a>
+  <a href="#" class="list-group-item">
+   B
+   <span class="badge">2</span>
+  </a>
+  <a href="#" class="list-group-item">
+   C
+   <span class="badge">3</span>
+  </a>
+  <a href="#" class="list-group-item">
+   D
+   <span class="badge">4</span>
+  </a>
+ </div>
+</div>

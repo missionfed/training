@@ -1,0 +1,4 @@
+ <input class="btn2"
+        type="button"
+        onclick="this.form.reset()"
+        value="Clear" />
